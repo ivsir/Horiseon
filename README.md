@@ -36,5 +36,5 @@ I changed all the div elements to more semantically correct elements. I commente
 * I had grouped redundant code in the CSS file and commented out the unnecessary code and consolidated the selectors that contained the exact same selectors.
 
 ## Screenshots of the Horiseon page
-<img src="./Develop/Screenshots/Horiseon-Website.png"/>
-<img src="./Develop/Screenshots/Horiseon-Website.png"/>
+![Repo Description Input](./Screenshots/Horiseon-Website.png)
+![Repo Description Input](./Screenshots/Horiseon-Website-2.png)
